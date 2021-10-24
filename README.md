@@ -2,16 +2,20 @@
 
 ### Date created
 Include the date you created this project and README file.
+October 24
 
 ### Project Title
 Replace the Project Title
+Github Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Describe what your project is about and what it does. The intent of this project is to share bikeshare python analytics using Git hub
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Linked used are the udacity Git course content, ask mentor and questions posted on peer chat
 
