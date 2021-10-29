@@ -14,5 +14,5 @@ Excel files: Chicago, New York City and Washinton
 Bikeshare python: sublime text
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I used the content learned throughout Udacity's Git course in addition to reviewed the comments section as well as utilized the 'ask mentor' feature for guidance. 
 
