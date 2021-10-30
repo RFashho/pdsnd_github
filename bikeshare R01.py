@@ -29,7 +29,7 @@ def get_filters():
         month = input('Please enter a month from January through June, or all to view data for all months: ').lower()
         months = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
         if month not in months:
-            print('That\'s not in the months list. Please enter a month from January through June, or all to view data for all months')
+            print('The entered month is not in the months list. Please enter a month from January through June, or all to view data for all months')
         else:
             break
 
@@ -190,7 +190,7 @@ def main():
     start_loc = 0
     while True:
         print(df.iloc[start_loc: start_loc + 5])
-        view_display = input("Do you wish to continue?: ").lower()
+        view_display = input("Would you like to continue?: ").lower()
        
 if __name__ == "__main__":
 	main()
